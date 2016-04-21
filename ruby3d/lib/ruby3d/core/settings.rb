@@ -1,0 +1,5 @@
+require 'ruby3d/core/settings/video_settings'
+require 'ruby3d/core/settings/asset_settings'
+require 'ruby3d/core/settings/settings_reader'
+require 'ruby3d/core/settings/settings_error'
+require 'ruby3d/core/settings/settings'

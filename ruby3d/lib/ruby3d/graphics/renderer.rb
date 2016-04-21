@@ -1,0 +1,1 @@
+require 'ruby3d/graphics/renderer/open_gl_renderer'

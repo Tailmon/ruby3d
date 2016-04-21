@@ -1,0 +1,10 @@
+---
+
+# video settings
+video:
+  x_res: 800
+  y_res: 600
+
+# assets path list
+assets:
+  - assets
